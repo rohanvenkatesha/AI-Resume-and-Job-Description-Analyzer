@@ -1,11 +1,3 @@
-Here's an updated `README.md` with:
-
-* Mention of `spaCy` (used for parsing text or skills, if you've included it).
-* Clear section listing all **Tech Skills / Stack** used.
-
----
-
-```markdown
 # 🧠 AI Resume and Job Description Analyzer
 
 A full-stack AI-powered application that compares a candidate's resume with a job description and returns keyword matches, missing skills, a fit score, and a smart AI-generated summary.
@@ -143,14 +135,4 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 
 MIT License – Feel free to use, adapt, and contribute!
 
-```
-
----
-
-Let me know if you'd like:
-- A version with badge icons
-- `.md` file directly download-ready
-- Added screenshots or deploy buttons
-
-Would you like me to generate a `README.md` file and add it to your repo locally too?
 ```
