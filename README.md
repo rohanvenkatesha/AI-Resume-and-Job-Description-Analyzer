@@ -66,7 +66,9 @@ AI-Resume-and-Job-Description-Analyzer/
     ```bash
     pip install -r requirements.txt
     ```
-
+    ```bash
+    python -m spacy download en_core_web_sm
+    ```
 3. Create a `.env` file with your API key:
     ```
     OPENROUTER_API_KEY=your_openrouter_api_key
