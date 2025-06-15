@@ -60,7 +60,7 @@ export default function Home() {
       } else {
         setResult(response.data);
       }
-    } catch (err: any) {
+    } catch (err: unknown) {
       console.error(err);
       setError("Failed to analyze. Please try again.");
     } finally {
