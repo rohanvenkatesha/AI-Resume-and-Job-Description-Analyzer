@@ -120,7 +120,7 @@ export default function Home() {
             className="h-4 w-4 text-blue-600"
           />
           <label htmlFor="useAI" className="font-medium select-none">
-            Enable AI-powered analysis (requires OpenAI API)
+            Enable AI-powered analysis
           </label>
         </div>
 
