@@ -61,6 +61,7 @@ export default function Home() {
         setResult(response.data);
       }
     } catch (err: any) {
+      console.error(err);
       setError("Failed to analyze. Please try again.");
     } finally {
       setLoading(false);
