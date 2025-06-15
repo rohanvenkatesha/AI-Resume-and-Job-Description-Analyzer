@@ -30,7 +30,7 @@ AI-Resume-and-Job-Description-Analyzer/
 │   ├── main.py               # FastAPI API server
 │   ├── parser.py             # Resume text extraction logic
 │   ├── matcher.py            # Keyword comparison engine
-│   ├── openai\_client.py      # Mistral 7B client via OpenRouter
+│   ├── openai_client.py      # Mistral 7B client via OpenRouter
 │   ├── requirements.txt      # Python dependencies
 │   └── .env                  # API keys (excluded from version control)
 ├── frontend/
